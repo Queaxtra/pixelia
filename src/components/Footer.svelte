@@ -1,7 +1,7 @@
 <section class="w-auto h-32 bg-[#003787] text-center mt-40">
     <div class="text-center justift-center">
         <input class="p-2.5 px-5 relative top-10 w-52 md:w-96 lg:w-96 bg-[#2D6FCD] rounded placeholder:text-[#82B5FF] text-sm md:text-base lg:text-base transition-all duration-300" type="email" placeholder="newspaper@pixelia.to">
-        <button class="p-2.5 px-7 relative top-10 bg-[#1353AF] hover:bg-[#0f4a9c] rounded text-sm md:text-base lg:text-base transition-all duration-300">Kaydol</button>
+        <button class="p-2.5 px-7 relative top-10 bg-[#1353AF] hover:bg-[#0f4a9c] rounded text-sm md:text-base lg:text-base transition-all duration-300">Register</button>
     </div>
     <img class="w-60 absolute -mt-20 invisible md:invisible lg:visible" src="https://cdn.discordapp.com/attachments/1136591322208272385/1186765685720891422/image_84.png?ex=659470ac&is=6581fbac&hm=0ed46c55934ac8595fe4a6e808b4a5167119d23a3c39114dbdddc0522dbfd4c7&" alt="">
 </section>
