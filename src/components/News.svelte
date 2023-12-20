@@ -69,7 +69,7 @@
         <div class="m-2">
           <h1 class="text-black text-lg">{item.title}</h1>
           <a href="/" class="text-black text-sm underline">
-            <i class="fa-solid fa-arrow-up-right-from-square"></i> Haberi görüntüle
+            <i class="fa-solid fa-arrow-up-right-from-square"></i> View News
           </a>
         </div>
 
